@@ -1,12 +1,6 @@
 
-% Student: Matthew Wang
-% Image ID: 1
-% Section:  31
-% Date:     11/11/2016
+% Matthew Wang
 
-% **************************
-% LAB PROJECT
-% **************************
 %% Initialization
 clear; close all; clc
 
